@@ -1,0 +1,27 @@
+shodhu.17@gmail.com
+ATATT3xFfGF0XM-xxFnu4c4NRlAMJcN3gay_pb6LXSAFIRRi-HEml25FstdoIAN8GOqwEBj5TyP1ajM20bErIHo62tTUXX2jakf1uEYZveMD8uAPg4oRtYorgS7rTXOcivnfFkxk5PflVeb0OLQTuX0psNBFLpBdOqPoRPGakzl9x0LPrL1WYbk=9432E95B
+
+
+
+
+# Link2 : https://medium.com/@manojsingh047/polyfill-for-javascript-promise-81053b284e37
+# Link 1 : https://www.linkedin.com/pulse/data-structures-powering-our-database-part-1-hash-indexes-prateek/
+
+# conf : https://sgkbounteous.atlassian.net/wiki/spaces/SD/pages/786433/Docker+Swarm+Setup
+# conf2 : https://sgkbounteous.atlassian.net/wiki/spaces/SD/pages/1015809/Local+Setup+without+docker
+
+
+
+ky id : AKIA2FA7DQGYD2WRVQES
+secret : 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
+
+
+ap-south-1
+
+
+aws configure set aws_access_key_id AKIA2FA7DQGYD2WRVQES
+aws configure set aws_secret_access_key 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
+aws configure set region ap-south-1
+
+
+ssh -i ajnabees-hackathon-key.pem ec2-user@3.108.60.198
