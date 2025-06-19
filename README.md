@@ -1,5 +1,13 @@
 # WebWhiz
 
+# DEMO
+
+
+https://github.com/user-attachments/assets/cd3c2312-1cc4-4f3b-8fb0-ba29b34beadb
+
+
+
+
 # 🚩 Problem Statement
 
 Organizations often store vast amounts of internal knowledge across platforms like Confluence, SharePoint, and internal wikis. However, employees face challenges in quickly finding accurate, relevant information. Traditional search is inefficient, context-blind, and time-consuming.
